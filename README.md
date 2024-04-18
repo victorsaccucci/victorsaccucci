@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedor Java/Angular</h3>
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <span style="margin-right: 10px;">🌱 Atualmente, estou aprendendo **Swift**</span>
+  <span style="margin-right: 10px;">🌱 Atualmente, estou aprendendo Swift</span>
   <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
 </div>
 
