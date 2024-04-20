@@ -21,14 +21,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsaccucci&layout=compact&theme=radical" alt="Top Langs">
 </div>
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Languages and Tools</title>
-</head>
 <body>
-
 <h2>Backend:</h2>
 <div>
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
