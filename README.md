@@ -1,4 +1,5 @@
-# Hello there I am Viral Bhadeshiya👋
+# Hello there I am Victor Saccucci👋
+### Main Technologies Java ☕♨ / Angular 🅰️ / iOS  
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
