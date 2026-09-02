@@ -1,73 +1,105 @@
-# Hello there I am Victor Saccucci👋
-### Main Technologies Java ☕♨ / Angular 🅰️ / iOS  
+<div align="center">
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+# Victor Saccucci
 
+### Fullstack Developer • CTO @ Moradia Match
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+Building scalable products, modern web applications and digital experiences.
 
-## My tech stack
+<br>
 
-<p align="left"> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor%20Saccucci-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/victorsaccucci/)
+[![Instagram](https://img.shields.io/badge/Instagram-@victorsaccucci-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/victorsaccucci/)
 
- <a>
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white">
-</a>
-&emsp;
-<a>
-  <img alt="Angular" src="https://img.shields.io/badge/-Angular-red?logo=angular&logoColor=white">
-</a>
-&emsp;
-<a>
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white">
-</a>
-&emsp;
-<a>
-  <img alt="Java" src="https://img.shields.io/badge/Java%20-%2314354C.svg?logo=java&logoColor=white">
-</a>
-&emsp;
-<a>
-  <img alt="Spring" src="https://img.shields.io/badge/-Spring-green?logo=spring&logoColor=white">
-</a>
-&emsp;
-<a>
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white">
-</a>
-&emsp;
-<a>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white">
-</a>
-&emsp;
-<a>
-  <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-red?logo=oracle&logoColor=white">
-</a>
-&emsp;
-<a>
-  <img alt="Swift" src="https://img.shields.io/badge/-Swift-orange?logo=swift&logoColor=white">
-</a>
-&emsp;
-<a>
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white">
-</a>
+</div>
 
-</p>
+---
 
+## About me
 
-## Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/victorsaccucci/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Viral Bhadeshiya" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/victorsaccucci/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Viral Bhadeshiya" height="30" width="40" /></a>
-</p>
+I'm a Fullstack Developer focused on building scalable, maintainable and user-centered applications.
 
------
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=victorsaccucci&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsaccucci&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=victorsaccucci&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-  <br>
- </p>
+Currently working as a **Pleno Developer at G4F**, contributing to software solutions for the **Tribunal de Justiça de Santa Catarina (TJSC)**.
+
+I'm also the **CTO of Moradia Match**, where I lead the technical development and architecture of a platform designed to modernize the connection between tenants, properties and the real estate ecosystem.
+
+My work spans backend architecture, modern frontend development, APIs, databases, cloud infrastructure and mobile applications.
+
+---
+
+## Current roles
+
+🏛️ **Fullstack Developer — G4F / Tribunal de Justiça de Santa Catarina**
+
+Working on the development and evolution of systems used within the judicial ecosystem.
+
+🏠 **CTO — Moradia Match**
+
+Responsible for technical strategy, software architecture and product development.
+
+---
+
+## Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square\&logo=swift\&logoColor=white)
+
+### Frontend
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square\&logo=angular\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
+
+### Backend
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square\&logo=oracle\&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=victorsaccucci&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsaccucci&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=victorsaccucci&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's connect
+
+I'm always interested in technology, software architecture and building products that solve real-world problems.
+
+[LinkedIn](https://www.linkedin.com/in/victorsaccucci/) • [Instagram](https://www.instagram.com/victorsaccucci/)
+
+<br>
+
+<sub>Designed & built by Victor Saccucci</sub>
+
+</div>
